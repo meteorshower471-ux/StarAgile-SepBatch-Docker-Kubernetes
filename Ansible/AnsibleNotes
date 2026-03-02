@@ -154,7 +154,7 @@ GO TO the worker NODE now
 
 # sudo su -
 
-# echo "<your public key>" >> authorized_keys 
+# echo "<your public key>" >> .ssh/authorized_keys 
 
 Now go back to Master and update the inventory file
 
